@@ -1,1 +1,1 @@
-print "hello worldfaasfasfasfasf"
+print "hello world"
